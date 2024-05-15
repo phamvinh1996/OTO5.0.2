@@ -673,7 +673,6 @@ div#offcanvasDarkNavbar {
   transform: skew(-30deg);
   background-color: #ff9900;
   border-right: 4px solid transparent;
-
 }
 
 .section-onlinecar .img-car {
@@ -696,6 +695,7 @@ div#offcanvasDarkNavbar {
   height: 850px;
   background-color: rgb(17, 16, 14);
   z-index: 1;
+
 }
 
 
@@ -713,6 +713,7 @@ div#offcanvasDarkNavbar {
   width: 100px;
   height: 650px;
   background-color: rgb(8, 7, 5);
+
 }
 
 /* code css màu chữ book you p */
