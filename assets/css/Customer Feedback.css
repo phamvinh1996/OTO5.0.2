@@ -189,7 +189,7 @@
   overflow: hidden;
   top: 155px;
   position: relative;
-  
+
 }
 
 .icon-car-06 .car1 {
@@ -252,4 +252,36 @@
   border: 1px solid black;
   border-radius: 50px;
 
+}
+
+
+
+
+/* mục liện hệ  THANH CUỘN*/
+
+.contact-nav111{
+  position: absolute;
+  top: 9%;
+  /* Adjust the distance from the top as needed */
+  left: 83%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  color: #fff;
+  transform: skewX(0deg);
+  width: 10%;
+  /* Adjust the width as needed */
+  height: 63px;
+
+
+}
+
+
+.navbar-toggler01{
+  color: white;
+  background-color: black;
+  right: -211px;
+    top: 21px;
+    position: absolute;
 }
