@@ -667,7 +667,7 @@ div#offcanvasDarkNavbar {
   position: absolute;
   top: -50%;
   bottom: 0%;
-  left: 97%;
+  left: 89%;
   width: 213px;
   height: 220%;
   transform: skew(-30deg);
@@ -690,7 +690,7 @@ div#offcanvasDarkNavbar {
 .chunhat1 {
   position: absolute;
   top: 50%;
-  left: 60%;
+  left: 55%;
   transform: translate(-50%, -50%) rotate(30deg) skewY(-28deg);
   width: 100px;
   height: 850px;
@@ -708,7 +708,7 @@ div#offcanvasDarkNavbar {
 .chunhatden {
   position: absolute;
   top: -5%;
-  left: 144%;
+  left: 134%;
   transform: translate(-50%, -50%) rotate(29deg) skewY(-27deg);
   width: 100px;
   height: 650px;
