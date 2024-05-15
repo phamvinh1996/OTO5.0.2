@@ -673,6 +673,7 @@ div#offcanvasDarkNavbar {
   transform: skew(-30deg);
   background-color: #ff9900;
   border-right: 4px solid transparent;
+
 }
 
 .section-onlinecar .img-car {
@@ -680,7 +681,6 @@ div#offcanvasDarkNavbar {
   width: 350px;
   right: -250px;
   top: -100px;
-
 }
 
 /* code css tạo hình chữ nhật đứng màu đen */
@@ -695,7 +695,6 @@ div#offcanvasDarkNavbar {
   height: 850px;
   background-color: rgb(17, 16, 14);
   z-index: 1;
-
 }
 
 
