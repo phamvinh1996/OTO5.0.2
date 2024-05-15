@@ -934,7 +934,6 @@ button.carousel-control-next {
 
 /* clip path cắt ảnh boook you */
 .carousel-caption::after {
-
   content: "";
   position: absolute;
   right: 0;
