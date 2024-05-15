@@ -3000,6 +3000,9 @@ p {
 }
 
 .img-car {
+
+  left: 325px;
+  position: relative;
   width: 450px;
   /* Đặt chiều rộng hình ảnh thành 200 pixel */
   height: auto;
