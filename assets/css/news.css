@@ -148,8 +148,16 @@
 
   /* icon car footer css */
 
+/* chữ trắng foter */
 
 
+.description01 {
+  position: absolute;
+  top: 26px;
+  left: 134px;
+  color: white;
+  font-family: "Space Grotesk", sans-serif;
+}
   
 /* code css tạo chuyển động xe ô tô */
 .icon-car-02 {
