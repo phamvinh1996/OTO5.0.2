@@ -3745,6 +3745,7 @@ img.image-car2 {
 /* phần load */
 
 #loading {
+  
   position: fixed;
   top: 0;
   left: 0;
