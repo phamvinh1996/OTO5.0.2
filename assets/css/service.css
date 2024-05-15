@@ -312,9 +312,16 @@
   border-radius: 50%;
   position: absolute;
   left: 79%;
-top: 1%;
+top: 3%;
 }
 
+
+
+.navbar-icon-yt {
+  position: absolute;
+  left: 82%;
+  top: 3%;
+}
 
 /* tin tuc va su kien */
 
