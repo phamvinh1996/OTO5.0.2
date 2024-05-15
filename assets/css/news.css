@@ -161,7 +161,9 @@
   overflow: hidden;
   top: 175px;
   position: relative;
+  
 }
+
 
 .icon-car-02 .car1 {
   animation: carAnimation 6s linear infinite;
