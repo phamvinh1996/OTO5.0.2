@@ -278,6 +278,17 @@
 }
 
 
+
+/* footer chữ */
+/* dòng chữ trắng p */
+
+.description1 {
+  position: absolute;
+  top: 18px;
+  left: 134px;
+  color: white;
+  font-family: "Space Grotesk", sans-serif;
+}
 /* thanh taxi gia ien tinh */
 
 .navbar-text{
