@@ -142,9 +142,24 @@
   right: -3%;
   top: -46;
 }
+/* footer ảnh logo */
+.logo-image1{
+    /* transform: translateX(-100%); */
+    float: left;
+    width: 200px;
+    height: auto;
+    position: absolute;
+    top: 27px;
+    left: -8%;
+}
 
 
 
+ .description-1{
+
+  position: absolute;
+  top: 19px;
+ }
 
 /* trang cuộn xuống */
 /* CODE TẠO THANH CUỘN XUỐNG */
