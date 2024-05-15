@@ -1,4 +1,10 @@
-
+/* hiệu ứng website */
+window.addEventListener('load', function() {
+  setTimeout(function() {
+      var loading = document.getElementById('loading');
+      loading.style.display = 'none';
+  }, 1000); // Đặt thời gian trễ 1 giây (1000ms) trước khi ẩn phần tử loading và hiển thị kết quả
+});
 
 /*  */
 document.getElementById("searchBtn").addEventListener("click", function() {
@@ -387,4 +393,7 @@ document.getElementById("searchBtn").addEventListener("click", function() {
   
       // JavaScript để hiển thị thanh điều hướng khi cuộn trang xuống
    
+
+/* hiệu ứng mới vào website */
+
 
