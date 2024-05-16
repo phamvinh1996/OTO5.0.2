@@ -3755,23 +3755,25 @@ img.image-car2 {
 
 #carouselExampleFade .carousel-indicators li {
   height: auto;
-  color: #fff;
+  color: orange;
   background-color: transparent;
   width: auto;
   background-clip: unset;
   text-indent: 0;
+  
 }
 
 #carouselExampleFade .carousel-indicators li:not(.active) {
   display: none;
-
 }
 
 
 #carouselExampleFade .carousel-indicators{
   position: absolute;
   left: -1300px;
-  
+  color: orange;
+  font-size: 30px;
+
 }
 
 
