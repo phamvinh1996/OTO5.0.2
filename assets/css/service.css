@@ -550,6 +550,7 @@ top: 2%;
   height: auto;
   top: -5%;
   transform: translateX(56%);
+
 }
 
 .section-map {
@@ -558,5 +559,6 @@ top: 2%;
   background-repeat: no-repeat;
   background-color: orange;
   padding: 8px 0;
+  
   width: 1499px;
 }
