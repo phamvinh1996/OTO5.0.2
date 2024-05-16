@@ -509,3 +509,34 @@ top: 2%;
     top: 21px;
     position: absolute;
 }
+
+
+/* chữ css foter  */
+.hotline-text0 {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 20%;
+  left: 22%;
+  font-size: 20px;
+  /* Kích cỡ chữ */
+
+  font-weight: 500;
+  line-height: 1;
+  color: #fafafa;
+  margin-bottom: 5px;
+
+}
+.hotline-text1 {
+  color: rgb(20, 15, 15);
+  font-size: 20px;
+  position: absolute;
+  top: 45%;
+  left: 22%;
+  font-size: 30px;
+  font-weight: bold;
+  /* Kích cỡ chữ */
+  font-weight: 700;
+  line-height: 1;
+}
+/*  */
