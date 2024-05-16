@@ -888,7 +888,7 @@ div#offcanvasDarkNavbar {
 }
 
 .page-number {
-  color: red;
+  color: orangered;
   font-size: 20px;
   z-index: 1;
   position: relative;
@@ -896,7 +896,7 @@ div#offcanvasDarkNavbar {
 }
 .page-number1{
  font-size: 30px;
-  color: red;
+  color: orangered;
   z-index: 1;
   position: relative;
   right: 7%;
