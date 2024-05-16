@@ -894,6 +894,13 @@ div#offcanvasDarkNavbar {
   position: relative;
   right: 7%;
 }
+.page-number1{
+ font-size: 30px;
+  color: red;
+  z-index: 1;
+  position: relative;
+  right: 7%;
+}
 
 button.carousel-control-prev {
   width: 100px;
@@ -906,6 +913,12 @@ button.carousel-control-next {
   position: absolute;
   left: 60%;
 }
+
+
+/* code hiện số trang */
+
+
+
 
 /*  code css màu nút button book*/
 .button-carousel button {
