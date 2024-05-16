@@ -3751,8 +3751,29 @@ img.image-car2 {
 
 
 
-/*  */
+/* phần code css số trang BOOK */
 
+#carouselExampleFade .carousel-indicators li {
+  height: auto;
+  color: #fff;
+  background-color: transparent;
+  width: auto;
+  background-clip: unset;
+  text-indent: 0;
+}
+
+#carouselExampleFade .carousel-indicators li:not(.active) {
+  display: none;
+
+
+}
+
+
+#carouselExampleFade .carousel-indicators{
+
+  position: absolute;
+  left: -1300px;
+}
 
 
 
