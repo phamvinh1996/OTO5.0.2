@@ -3760,10 +3760,12 @@ img.image-car2 {
   width: auto;
   background-clip: unset;
   text-indent: 0;
+
 }
 
 #carouselExampleFade .carousel-indicators li:not(.active) {
   display: none;
+
 }
 
 
@@ -3772,7 +3774,6 @@ img.image-car2 {
   left: -1400px;
   color: orange;
   font-size: 30px;
-  
 }
 
 
