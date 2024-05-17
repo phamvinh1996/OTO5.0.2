@@ -2919,6 +2919,7 @@ p {
   background-repeat: no-repeat;
   position: relative;
   padding: 40px 0;
+  
 }
 
 .container {
@@ -3010,7 +3011,6 @@ p {
   position: relative;
   left: -48px;
   top: 31px;
-  
 }
 
 .orange-text {
