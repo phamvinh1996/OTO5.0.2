@@ -3037,9 +3037,9 @@ p {
 .white-text {
   color: white;
   position: relative;
-  transform: translateX(2%);
+  transform: translateX(-4%);
   position: absolute;
-  right: -3%;
+  right: 20%;
 
 }
 
