@@ -772,7 +772,7 @@ div#offcanvasDarkNavbar {
   font-family: "Space Grotesk", sans-serif;
   font-size: 52px;
   top: 13px;
-  
+
 }
 
 
@@ -2937,17 +2937,34 @@ p {
 
 /* code css chữ và ảnh call us */
 .icon-text-1 {
-  font-size: 28px;
-  color: #dfdb0f;
+  font-size: 20px;
+  color: #d3d3ca;
   /* margin-top: -51px; */
   text-align: left;
   /* transform: translateX(-100%); */
   margin-bottom: 20px;
   position: absolute;
-  top: 200px;
+  top: 229px;
   left: 120px;
+}
+
+.icon-text-001{
+  font-size: 28px;
+  color: #ff9900;
+  /* margin-top: -51px; */
+  text-align: left;
+  /* transform: translateX(-100%); */
+  margin-bottom: 20px;
+  position: absolute;
+  top: 258px;
+  left: 120px;
+  font-weight: bold;
 
 }
+
+
+
+
 
 /* code css kích cỡ chữ */
 .custom-image {
