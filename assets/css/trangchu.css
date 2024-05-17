@@ -262,11 +262,19 @@
 .menu li {
   margin-right: 10px;
 }
-
+/* thanh nav chữ */
 .menu li a {
-  color: white;
+  color: #ffffff;
   text-decoration: none;
+  font-weight: bold;
 }
+.menu li a:active {
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+
+
 
 .icons {
   display: flex;
