@@ -3004,11 +3004,16 @@ p {
   left: -400px;
   top: -200px;
 }
-
+/* dòng chữ màu cam call us */
 .title {
-  color: rgb(224, 212, 212);
-  /* Thay đổi màu chữ thành màu đỏ */
+  color: white;
 }
+
+.orange-text {
+  color: orange;
+}
+
+
 
 /*  */
 /* thanh nav màu cam phần liên hệ */
