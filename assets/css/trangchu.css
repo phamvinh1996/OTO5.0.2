@@ -3012,9 +3012,12 @@ p {
 
 .orange-text {
   color: orange;
-  
-}
 
+}
+.ride1{
+  position: relative;
+  left: -71px;
+}
 
 
 /*  */
