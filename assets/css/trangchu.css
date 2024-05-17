@@ -3007,6 +3007,8 @@ p {
 /* dòng chữ màu cam call us */
 .title {
   color: white;
+  position: relative;
+  left: -37px;
 }
 
 .orange-text {
