@@ -1877,51 +1877,42 @@ p {
 /* biểu tượng đặt xe nhanh */
 
 .input-group-text-1 {
-
   position: absolute;
   left: 78%;
   top: 51%;
 }
 
 .input-group-text-2 {
-
   position: absolute;
   left: 58%;
   top: 51%;
 }
 
 .input-group-text-3 {
-
   position: absolute;
   left: 33%;
   top: 51%;
 }
 
 .input-group-text-4 {
-
   position: absolute;
   left: 63%;
   top: 51%;
-
 }
 
 .input-group-online-5 {
-
   position: absolute;
   left: 60%;
   top: 51%;
-
 }
 
 .input-group-text-6 {
-
   position: absolute;
   left: 95%;
   top: 51%;
 }
 
 .input-group-text-7 {
-
   position: absolute;
   left: 97%;
   top: 16%;
@@ -1929,7 +1920,6 @@ p {
 
 
 .input-group-text-8 {
-
   position: absolute;
   left: 90%;
   top: 51%;
@@ -3708,56 +3698,42 @@ img.image-car2 {
 .form-label1{
   position: relative;
   left: -56px;
+
 }
 
 .form-label2{
-
-
   position: relative;
   left: -111px;
 }
 
 .form-label3{
-
-
   position: relative;
   left: -194px;
-
 }
 
 .form-label4{
-
-
   position: relative;
   left: -95px;
-
 }
 .form-label5{
-
   position: relative;
   left: -53px;
-
 }
 
 .form-label6{
   position: relative;
   left: -53px;
-
-
 }
 
 .form-label7{
-
   position: relative;
   left: -41px;
 }
 
 
 .form-label8{
-
   position: relative;
   left: -51px;
-
 }
 
 
@@ -3773,21 +3749,17 @@ img.image-car2 {
 
 /* code css kích cỡ đặt xe nhanh ketthuc */
 .label-11 {
-
   position: relative;
   left: -17%;
   width: 20%;
   top: -70px;
-
 }
 
 .batdau-1 {
-
   position: relative;
   left: 31%;
   width: 20%;
   top: -70px;
-
 }
 
 
@@ -3797,6 +3769,7 @@ img.image-car2 {
   left: 1%;
   width: 20%;
   top: -70px;
+
 }
 
 
@@ -3805,7 +3778,6 @@ img.image-car2 {
   left: 32%;
   top: 61%;
   width: 20%;
-
 }
 
 .col
