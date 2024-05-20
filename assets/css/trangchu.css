@@ -234,7 +234,7 @@
   /* Điều chỉnh theo left của navbar */
   width: 100%;
   /* Chiều rộng 100% */
-  height: 110%;
+  height: 98%;
   /* Chiều cao 100% */
   background-color: inherit;
   /* Màu nền giống với navbar */
@@ -370,7 +370,7 @@ div#offcanvasDarkNavbar {
 
 .contact-nav {
   position: absolute;
-  top: -21%;
+  top: -14%;
   /* Adjust the distance from the top as needed */
   left: 95%;
   display: flex;
@@ -379,9 +379,9 @@ div#offcanvasDarkNavbar {
   background-color: black;
   color: #fff;
   transform: skewX(0deg);
-  width: 15%;
+  width: 13%;
   /* Adjust the width as needed */
-  height: 77px;
+  height: 68px;
 }
 
 /* nut css  chinh kich co  thanh nav menu trang chu... */
