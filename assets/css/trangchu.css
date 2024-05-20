@@ -2721,6 +2721,7 @@ p {
   margin-top: 35px;
   padding-left: 0;
   margin-bottom: 0;
+
   padding-left: 3px;
 }
 
@@ -2730,6 +2731,7 @@ p {
   height: 10px;
   background-color: #000;
   cursor: pointer;
+
 }
 
 .table-1 .slick-dots > li:not(:last-of-type) {
@@ -2739,6 +2741,7 @@ p {
 .table-1 .slick-dots li button {
   font-size: 0;
   padding: 0;
+
 }
 
 .table-1 .slick-dots li.slick-active {
@@ -2761,6 +2764,7 @@ p {
   border-radius: 50%;
   margin-right: 20px;
   overflow: hidden;
+
 }
 
 .table-1 .slick-slide .user-info .avatar img {
@@ -2780,11 +2784,13 @@ p {
 .table-1 .slick-slide .company-info p.ten01 {
   font-size: 18px;
   font-weight: 600;
+
 }
 
 .table-1 .slick-slide .company-info p.ten02 {
   font-size: 14px;
   font-weight: 500;
+
 }
 
 
@@ -2824,6 +2830,7 @@ p {
  .company-info p.ten4 {
   font-size: 14px;
   font-weight: 500;
+  
 }
 
 
