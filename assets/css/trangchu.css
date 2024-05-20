@@ -263,16 +263,18 @@
   margin-right: 10px;
 }
 /* thanh nav chữ */
+/* dấu ghạch chân thanh nav chữ */
+
+
 .menu li a {
   color: #ffffff;
   text-decoration: none;
   font-weight: bold;
-
 }
-.menu li a:active {
-  text-decoration: underline;
+
+.menu li a:hover {
+  border-bottom: 1px solid #ffffff;
   font-weight: bold;
-  
 }
 
 
