@@ -2711,9 +2711,12 @@ p {
 .table-1 {
   /* width: 550px; */
   /* height: 380px; */
-  border: 1px solid black;
+  /* border: 1px solid #666; */
+
   /* overflow: hidden; */
   position: relative;
+  background-color: #ffffff; /* Mã màu cho màu trắng (#ffffff) */
+  border: 1px solid #ccc; 
 }
 
 /*  */
