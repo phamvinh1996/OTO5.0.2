@@ -3320,7 +3320,6 @@ button {
   /* tạo thanh nav có đường viền */
   background-image: repeating-linear-gradient(45deg, #f7a20f 0, #f7a20f 2px, transparent 0, transparent 50%);
   background-size: 10px 10px;
-  
 }
 
 /* chữ css foter  */
