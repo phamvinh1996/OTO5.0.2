@@ -2801,6 +2801,9 @@ p {
 
 /*  code hải long */
 
+.slick-slide {
+  border: 1px solid #ccc;
+}
 
 .info2-image {
   width: 150px;
@@ -2809,11 +2812,11 @@ p {
   margin-right: 20px;
   overflow: hidden;
 }
-.slick-slide .user-info .avatar img {
-  width: 100%;
-  height: 100%;
+ .user-info .info2-image {
+  width: 30%;
+  height: 50%;
 }
- .company-info {
+.company-info {
   flex-grow: 1;
   align-self: center;
 }
@@ -2826,17 +2829,56 @@ p {
  .company-info p.ten3 {
   font-size: 18px;
   font-weight: 600;
+  
+ 
 }
  .company-info p.ten4 {
   font-size: 14px;
   font-weight: 500;
-  
+
+}
+
+
+/* code minh hắng */
+
+
+
+.slick-slide {
+  border: 1px solid #ccc;
+}
+
+.info3-image {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-right: 20px;
+  overflow: hidden;
+}
+ .user-info .info3-image {
+  width: 30%;
+  height: 50%;
+}
+.company-info {
+  flex-grow: 1;
+  align-self: center;
 }
 
 
 
+.company-info p {
+  display: block;
+}
+ .company-info p.ten5 {
+  font-size: 18px;
+  font-weight: 600;
+  
+ 
+}
+ .company-info p.ten6 {
+  font-size: 14px;
+  font-weight: 500;
 
-
+}
 
 
 
