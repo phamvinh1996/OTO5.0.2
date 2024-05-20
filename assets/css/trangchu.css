@@ -1132,10 +1132,6 @@ img {
 
 p {
   margin: 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100%;
 }
 
 /*  */
@@ -2707,71 +2703,145 @@ p {
 /* bảng hon 1000 */
 
 /* code html chữ kich co chữ bang hon 1000 */
+/* bảng hon 1000 khách trải nghiệm */
 
+/* code Diệu lê */
 .table-1 {
   position: relative;
   background-color: #ffffff; /* Mã màu cho màu trắng (#ffffff) */
-  border: 1px solid #ccc; 
+  /* border: 1px solid #ccc;  */
 }
 
-/*  */
-/* hình chu 1 */
-.info1 {
-  top: -390px;
-  border-radius: 60%;
-  width: 155px;
+.table-1 .slick-slide {
+  border: 1px solid #ccc;
 }
 
-/*  */
-.ten01 {
-  position: absolute;
-  right: 78%;
-
+.table-1 .slick-dots {
+  display: flex;
+  margin-top: 35px;
+  padding-left: 0;
+  margin-bottom: 0;
+  padding-left: 3px;
 }
 
-.ten02 {
-  position: absolute;
-  left: 20%;
-  top: 53%;
+.table-1 .slick-dots li {
+  list-style: none;
+  width: 10px;
+  height: 10px;
+  background-color: #000;
+  cursor: pointer;
 }
 
-/* hinh chu 2 */
-.info2 {
-  top: 19%;
-  border-radius: 60%;
-  width: 155px;
+.table-1 .slick-dots > li:not(:last-of-type) {
+  margin-right: 8px;
 }
 
-.ten3 {
-  position: absolute;
-  left: 35%;
-  top: 133px;
+.table-1 .slick-dots li button {
+  font-size: 0;
+  padding: 0;
 }
 
-.ten4 {
-  position: absolute;
-  top: 53%;
-  left: 35%;
+.table-1 .slick-dots li.slick-active {
+  background-color: #ff9900;
+  box-shadow: 0 0 0 3px rgba(255, 153, 0, 0.5);
 }
 
-/* hinh chu 3 */
-.info3 {
-  top: 17%;
-  border-radius: 60%;
-  width: 155px;
+
+.table-1 .slick-slide .comment p {
+  margin-bottom: 24px;
 }
 
-.ten05 {
-  position: absolute;
-  top: 47%;
-  left: 50%;
+.table-1 .slick-slide .user-info {
+  display: flex;
 }
 
-.ten06 {
-  position: absolute;
-  top: 61%;
-  left: 50%;
+.table-1 .slick-slide .user-info .avatar {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-right: 20px;
+  overflow: hidden;
 }
+
+.table-1 .slick-slide .user-info .avatar img {
+  width: 100%;
+  height: 100%;
+}
+
+.table-1 .slick-slide .company-info {
+  flex-grow: 1;
+  align-self: center;
+}
+
+.table-1 .slick-slide .company-info p {
+  display: block;
+}
+
+.table-1 .slick-slide .company-info p.ten01 {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.table-1 .slick-slide .company-info p.ten02 {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+
+
+
+
+
+
+/*  code hải long */
+
+
+.info2-image {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-right: 20px;
+  overflow: hidden;
+}
+.slick-slide .user-info .avatar img {
+  width: 100%;
+  height: 100%;
+}
+ .company-info {
+  flex-grow: 1;
+  align-self: center;
+}
+
+
+
+.company-info p {
+  display: block;
+}
+ .company-info p.ten3 {
+  font-size: 18px;
+  font-weight: 600;
+}
+ .company-info p.ten4 {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 /* font chữ 1000 */
@@ -2805,7 +2875,7 @@ p {
 
 /* hon 1000 dấu 3 chấm */
 
-.slick-dots {
+/* .slick-dots {
   position: absolute;
   bottom: 20px;
   left: 50%;
@@ -2835,7 +2905,7 @@ p {
 
 .slick-dots li.slick-active button {
   background-color: #fff;
-}
+} */
 
 
 
@@ -2878,11 +2948,11 @@ p {
   position: relative;
 }
 
-.company-info {
+/* .company-info {
   display: flex;
   align-items: center;
   margin-top: 10px;
-}
+} */
 
 .company-info p {
   margin: 0;
