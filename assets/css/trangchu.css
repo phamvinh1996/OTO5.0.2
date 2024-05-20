@@ -1886,21 +1886,21 @@ p {
 .input-group-text-2 {
 
   position: absolute;
-  left: 78%;
+  left: 58%;
   top: 51%;
 }
 
 .input-group-text-3 {
 
   position: absolute;
-  left: 78%;
+  left: 33%;
   top: 51%;
 }
 
 .input-group-text-4 {
 
   position: absolute;
-  left: 73%;
+  left: 63%;
   top: 51%;
 
 }
@@ -1916,22 +1916,22 @@ p {
 .input-group-text-6 {
 
   position: absolute;
-  left: 68%;
+  left: 95%;
   top: 51%;
 }
 
 .input-group-text-7 {
 
   position: absolute;
-  left: 78%;
-  top: 21%;
+  left: 97%;
+  top: 16%;
 }
 
 
 .input-group-text-8 {
 
   position: absolute;
-  left: 78%;
+  left: 90%;
   top: 51%;
 }
 
@@ -3611,6 +3611,166 @@ img.image-car2 {
   transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
 }
 
+/* kích cỡ ô dat xe nhanh */
+
+
+.form-handle1{
+  color: #666;
+  background-color: #333333;
+  width: 200px;
+  height: 44px;
+}
+
+/* số lượng */
+.form-handle0{
+
+  width: 206px;
+  height: 44px;
+  position: relative;
+  left: -33px;
+
+  color: #666;
+  background-color: #333333;
+}
+/* chọn ngày */
+
+.form-handle110{
+
+  width: 206px;
+  height: 44px;
+  position: relative;
+  left: 3px;
+  
+  color: #666;
+  background-color: #333333;
+}
+
+.form-handle02{
+
+  width: 206px;
+  height: 44px;
+
+  color: #666;
+  background-color: #333333;
+  position: relative;
+  left: -60px;
+  top:1px;
+}
+
+.form-handle03{
+  width: 206px;
+  height: 44px;
+
+  color: #666;
+  background-color: #333333;
+  position: relative;
+  top: -7px;
+
+
+}
+
+
+.form-handle04{
+  width: 206px;
+  height: 44px;
+
+  color: #666;
+  background-color: #333333;
+
+
+}
+
+.form-handle05{
+  width: 206px;
+  height: 44px;
+  color: #666;
+  background-color: #333333;
+  position: relative;
+  top: 2px;
+  left: -121px;
+}
+
+.form-handle000{
+  width: 206px;
+  height: 44px;
+  color: #666;
+  background-color: #333333;
+  position: relative;
+  top: -6px;
+  left: -14px;
+
+
+
+}
+
+/* chữ */
+
+.form-label1{
+  position: relative;
+  left: -56px;
+}
+
+.form-label2{
+
+
+  position: relative;
+  left: -111px;
+}
+
+.form-label3{
+
+
+  position: relative;
+  left: -194px;
+
+}
+
+.form-label4{
+
+
+  position: relative;
+  left: -95px;
+
+}
+.form-label5{
+
+  position: relative;
+  left: -53px;
+
+}
+
+.form-label6{
+  position: relative;
+  left: -53px;
+
+
+}
+
+.form-label7{
+
+  position: relative;
+  left: -41px;
+}
+
+
+.form-label8{
+
+  position: relative;
+  left: -51px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
 /* code css kích cỡ đặt xe nhanh ketthuc */
 .label-11 {
 
@@ -3649,6 +3809,11 @@ img.image-car2 {
 }
 
 .col
+
+
+
+
+
 /* code css hơn 1000 */
 
 
@@ -3726,6 +3891,7 @@ img.image-car2 {
   }  */
 
 /* chữ thẻ p doc-1 hon 1000 */
+
 
 
 
