@@ -734,7 +734,7 @@ div#offcanvasDarkNavbar {
 /* button */
 .btn-view-more {
   float: left;
-  left: 13%;
+  left: 1%;
   width: 19%;
   height: 48px;
   display: inline-block;
@@ -746,7 +746,8 @@ div#offcanvasDarkNavbar {
   border-radius: 5px;
   font-size: 16px;
   position: absolute;
-  margin-top: 71px;
+  margin-top: 72px;
+
 }
 
 .btn-view-more:hover {
@@ -777,7 +778,7 @@ div#offcanvasDarkNavbar {
 
 .carousel-caption h1 {
   font-weight: bold;
-  left: 52%;
+  left: 40%;
   margin-bottom: -7px;
   animation: slide-up 0.5s ease forwards;
   text-align: text;
@@ -794,7 +795,7 @@ div#offcanvasDarkNavbar {
   animation: slide-up 0.5s ease 0.3s forwards;
   text-align: text;
   position: relative;
-  left: 17%;
+  left: 5%;
   color: white;
   font-family: "Space Grotesk", sans-serif;
 }
@@ -802,11 +803,10 @@ div#offcanvasDarkNavbar {
 /* Travel securely with us THE BOOK */
 .doct1 {
   position: relative;
-  left: -31%;
+  left: -43%;
   top: 1%;
   font-family: "Space Grotesk", sans-serif;
   font-size: 18px;
-
 }
 
 
