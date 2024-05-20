@@ -3609,37 +3609,32 @@ img.image-car2 {
   background-color: #333333;
   width: 200px;
   height: 44px;
+  
 }
 
 /* số lượng */
 .form-handle0{
-
   width: 206px;
   height: 44px;
   position: relative;
   left: -33px;
-
   color: #666;
   background-color: #333333;
 }
 /* chọn ngày */
 
 .form-handle110{
-
   width: 206px;
   height: 44px;
   position: relative;
   left: 3px;
-  
   color: #666;
   background-color: #333333;
 }
 
 .form-handle02{
-
   width: 206px;
   height: 44px;
-
   color: #666;
   background-color: #333333;
   position: relative;
@@ -3650,24 +3645,18 @@ img.image-car2 {
 .form-handle03{
   width: 206px;
   height: 44px;
-
   color: #666;
   background-color: #333333;
   position: relative;
   top: -7px;
-
-
 }
 
 
 .form-handle04{
   width: 206px;
   height: 44px;
-
   color: #666;
   background-color: #333333;
-
-
 }
 
 .form-handle05{
@@ -3678,6 +3667,7 @@ img.image-car2 {
   position: relative;
   top: 2px;
   left: -121px;
+
 }
 
 .form-handle000{
@@ -3688,9 +3678,6 @@ img.image-car2 {
   position: relative;
   top: -6px;
   left: -14px;
-
-
-
 }
 
 /* chữ */
@@ -3699,41 +3686,49 @@ img.image-car2 {
   position: relative;
   left: -56px;
 
+
 }
 
 .form-label2{
   position: relative;
   left: -111px;
+
 }
 
 .form-label3{
   position: relative;
   left: -194px;
+
 }
 
 .form-label4{
   position: relative;
   left: -95px;
+
 }
 .form-label5{
   position: relative;
   left: -53px;
+
 }
 
 .form-label6{
   position: relative;
   left: -53px;
+
 }
 
 .form-label7{
   position: relative;
   left: -41px;
+
 }
 
 
 .form-label8{
   position: relative;
   left: -51px;
+
 }
 
 
