@@ -734,9 +734,9 @@ div#offcanvasDarkNavbar {
 /* button */
 .btn-view-more {
   float: left;
-  left: 16%;
-  width: 23%;
-  height: 50px;
+  left: 13%;
+  width: 19%;
+  height: 48px;
   display: inline-block;
   padding: 10px 20px;
   background-color: #ff9900;
@@ -746,7 +746,8 @@ div#offcanvasDarkNavbar {
   border-radius: 5px;
   font-size: 16px;
   position: absolute;
-  margin-top: 58px;
+  margin-top: 71px;
+  
 }
 
 .btn-view-more:hover {
