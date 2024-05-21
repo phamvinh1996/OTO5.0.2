@@ -2054,31 +2054,22 @@ p {
 
 }
 .slick-slide {
-
   border: 1px solid #ccc;
-
 }
 
 .slick-dots {
-
   display: flex;
   margin-top: 35px;
   padding-left: 0;
   margin-bottom: 0;
-
   padding-left: 590px;
-
-
 }
 .slick-dots li {
-
   list-style: none;
   width: 10px;
   height: 10px;
   background-color: #000;
   cursor: pointer;
-
-
 }
 
  .slick-dots > li:not(:last-of-type) {
@@ -2107,7 +2098,6 @@ p {
   border-radius: 50%;
   margin-right: 20px;
   overflow: hidden;
-
 }
 .slick-slide .user-info .avatar img {
   width: 100%;
@@ -2116,8 +2106,6 @@ p {
 .slick-slide .company-info {
    flex-grow: 1;
   align-self: center;  
- 
- 
 }
 
 
