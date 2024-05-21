@@ -2050,8 +2050,6 @@ p {
 .card{
   position: relative;
   background-color: #ffffff; /* Mã màu cho màu trắng (#ffffff) */
-  
-
 }
 .slick-slide {
   border: 1px solid #ccc;
@@ -2063,7 +2061,6 @@ p {
   padding-left: 0;
   margin-bottom: 0;
   padding-left: 590px;
-  
 }
 .slick-dots li {
   list-style: none;
@@ -2071,6 +2068,7 @@ p {
   height: 10px;
   background-color: #000;
   cursor: pointer;
+
 }
 
  .slick-dots > li:not(:last-of-type) {
@@ -2079,7 +2077,6 @@ p {
 .slick-dots li button {
   font-size: 0;
   padding: 0;
-
 }
 .slick-dots li.slick-active {
   background-color: #ff9900;
@@ -2099,6 +2096,7 @@ p {
   border-radius: 50%;
   margin-right: 20px;
   overflow: hidden;
+
 }
 .slick-slide .user-info .avatar img {
   width: 100%;
@@ -2107,6 +2105,7 @@ p {
 .slick-slide .company-info {
    flex-grow: 1;
   align-self: center;  
+  
 }
 
 
