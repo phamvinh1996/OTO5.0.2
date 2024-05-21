@@ -2041,6 +2041,114 @@ p {
   margin: 5px 0;
 }
 
+
+
+
+/* choosee taxi dấu chấm */
+
+
+.card{
+  position: relative;
+  background-color: #ffffff; /* Mã màu cho màu trắng (#ffffff) */
+
+}
+.slick-slide {
+
+  border: 1px solid #ccc;
+
+}
+
+.slick-dots {
+
+  display: flex;
+  margin-top: 35px;
+  padding-left: 0;
+  margin-bottom: 0;
+
+  padding-left: 3px;
+
+
+}
+.slick-dots li {
+
+  list-style: none;
+  width: 10px;
+  height: 10px;
+  background-color: #000;
+  cursor: pointer;
+
+
+}
+
+ .slick-dots > li:not(:last-of-type) {
+  margin-right: 8px;
+}
+.slick-dots li button {
+  font-size: 0;
+  padding: 0;
+
+}
+.slick-dots li.slick-active {
+  background-color: #ff9900;
+  box-shadow: 0 0 0 3px rgba(255, 153, 0, 0.5);
+}
+.slick-slide .comment p {
+  margin-bottom: 24px;
+}
+
+.slick-slide .user-info {
+  display: flex;
+}
+
+.slick-slide .user-info .avatar {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-right: 20px;
+  overflow: hidden;
+
+}
+.slick-slide .user-info .avatar img {
+  width: 100%;
+  height: 100%;
+}
+.slick-slide .company-info {
+  flex-grow: 1;
+  align-self: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*  */
 
 .btn {
