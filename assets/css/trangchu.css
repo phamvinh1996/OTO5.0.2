@@ -2050,6 +2050,7 @@ p {
 .card{
   position: relative;
   background-color: #ffffff; /* Mã màu cho màu trắng (#ffffff) */
+  
 
 }
 .slick-slide {
@@ -2065,7 +2066,7 @@ p {
   padding-left: 0;
   margin-bottom: 0;
 
-  padding-left: 3px;
+  padding-left: 590px;
 
 
 }
@@ -2113,10 +2114,11 @@ p {
   height: 100%;
 }
 .slick-slide .company-info {
-  flex-grow: 1;
-  align-self: center;
+   flex-grow: 1;
+  align-self: center;  
+ 
+ 
 }
-
 
 
 
